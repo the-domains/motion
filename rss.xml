@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[motion]]></title>
         <description><![CDATA[motion]]></description>
         <link>https://thegrid.ai/motion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 00:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 05:21:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/motion/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Territory Studio - Motion - The Martian]]></title>
+            <description><![CDATA[<article><h1>Territory Studio - Motion - The Martian</h1><p>Territory is a boutique creative studio specialising in motion, digital and graphic design. We work across a diverse range of sectors delivering creative solutions for brands large and small.</p><img src="http://www.territorystudio.com/assets/homepage/clients/clientlist01.gif"></article>]]></description>
+            <link>http://www.territorystudio.com/work/motion/?p=Martian</link>
+            <guid isPermaLink="false">9a521712-b7fa-4ec5-b001-8db341d996e1</guid>
+            <pubDate>Mon, 26 Oct 2015 05:20:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[COVERT INBOX]]></title>
             <description><![CDATA[<article><h1>COVERT INBOX</h1><p>This is what happens when you get a new message and when you tap on something. Once you tap to view a message you'd swipe to the right to go back to the inbox. This is a little heavier than the p...</p><img src="https://d13yacurqjgara.cloudfront.net/users/107759/screenshots/905215/cover-inbox-4.gif"></article>]]></description>
