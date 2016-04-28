@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.creativeapplications.net/cinder/cindermedusae-cinder/'
 title: 'Cindermedusae [Cinder]'
-datePublished: '2016-04-28T17:45:30.909Z'
-dateModified: '2016-04-28T17:45:30.813Z'
+datePublished: '2016-04-28T17:45:50.571Z'
+dateModified: '2016-02-24T19:48:47.804Z'
 starred: false
 sourcePath: _posts/2016-04-28-cindermedusae-cinder.md
 published: true
