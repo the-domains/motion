@@ -1,4 +1,3 @@
-layout_spectrum: 0.5
 typography_spectrum: 0.5
 color:
   brandColors: []
@@ -6,6 +5,7 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-name: Motion Design I Like
+layout_spectrum: 0.5
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff6b14ad-0869-4714-83f0-54e936db69de.png
+name: Motion Design I Like
