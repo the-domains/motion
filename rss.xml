@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[motion]]></title>
-        <description><![CDATA[motion]]></description>
+        <title><![CDATA[Motion Design Collection]]></title>
+        <description><![CDATA[Motion Design Collection]]></description>
         <link>https://thegrid.ai/motion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 17:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 19:29:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/motion/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Cindermedusae [Cinder]]]></title>
-            <description><![CDATA[<article><h1>Cindermedusae [Cinder]</h1><p>Created by Marcin Ignac and yet another project selected for the WrittenImages book, Cindermedusae is a generative encyclopedia of imaginary sea creatures. I wanted to explore generating organic and believable forms so I have chosen to try with a jellyfish.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99cdfdd30a319e0148da25afc20250a7155715d0.jpg"></article>]]></description>
-            <link>http://www.creativeapplications.net/cinder/cindermedusae-cinder/</link>
-            <guid isPermaLink="false">ef189af4-6aed-4c23-b5cc-7a28ff231010</guid>
-            <pubDate>Thu, 28 Apr 2016 17:45:50 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Cindermedusae [Cinder]]]></title>
             <description><![CDATA[<article><h1>Cindermedusae [Cinder]</h1><p>Created by Marcin Ignac and yet another project selected for the WrittenImages book, Cindermedusae is a generative encyclopedia of imaginary sea creatures. I wanted to explore generating organic and believable forms so I have chosen to try with a jellyfish.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99cdfdd30a319e0148da25afc20250a7155715d0.jpg"></article>]]></description>
@@ -33,13 +26,6 @@
             <link>http://www.territorystudio.com/work/motion/?p=Martian</link>
             <guid isPermaLink="false">9a521712-b7fa-4ec5-b001-8db341d996e1</guid>
             <pubDate>Mon, 26 Oct 2015 05:20:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COVERT INBOX]]></title>
-            <description><![CDATA[<article><h1>COVERT INBOX</h1><p>This is what happens when you get a new message and when you tap on something. Once you tap to view a message you'd swipe to the right to go back to the inbox. This is a little heavier than the p...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d38ca03c50197fef9391dbf3f4e37ac58bb318e.gif"></article>]]></description>
-            <link>https://dribbble.com/shots/905215-COVERT-INBOX?list=searches&amp;tag=gif&amp;offset=7</link>
-            <guid isPermaLink="false">4ad5f5a6-09f3-4ac1-acf8-eb014df4055c</guid>
-            <pubDate>Fri, 09 Oct 2015 00:02:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GIF for the Weather App]]></title>
