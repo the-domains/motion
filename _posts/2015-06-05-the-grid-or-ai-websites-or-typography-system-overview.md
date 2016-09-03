@@ -1,5 +1,5 @@
 ---
-isBasedOnUrl: "https://www.youtube.com/watch?v=1kNDmhHvMEM"
+isBasedOnUrl: 'https://www.youtube.com/watch?v=1kNDmhHvMEM'
 inLanguage: en
 starred: false
 keywords:
@@ -13,36 +13,42 @@ keywords:
   - thegrid
   - typefaces
   - typographyverse
-description: "Typographyverse is the system that automates how The Grid chooses fonts for your site. Rather than picking individual typefaces for your headers, sub-headers, and body text, you can use the type slider to choose the feeling you're going for, and let The Grid do the rest."
+description: >-
+  Typographyverse is the system that automates how The Grid chooses fonts for
+  your site. Rather than picking individual typefaces for your headers,
+  sub-headers, and body text, you can use the type slider to choose the feeling
+  you're going for, and let The Grid do the rest.
 author:
   - name: The Grid
-    url: "http://www.youtube.com/user/TheGridio"
+    url: 'http://www.youtube.com/user/TheGridio'
     avatar: {}
 related: []
-datePublished: "2015-06-05T05:08:54.000Z"
+datePublished: '2016-08-31T14:26:27.005Z'
 app_links:
-  - url: "vnd.youtube://www.youtube.com/watch?v=1kNDmhHvMEM&feature=applinks"
+  - url: 'vnd.youtube://www.youtube.com/watch?v=1kNDmhHvMEM&feature=applinks'
     type: ios
-    app_store_id: "544007664"
+    app_store_id: '544007664'
     app_name: YouTube
-  - url: "vnd.youtube://www.youtube.com/watch?v=1kNDmhHvMEM&feature=applinks"
+  - url: 'vnd.youtube://www.youtube.com/watch?v=1kNDmhHvMEM&feature=applinks'
     type: android
     app_name: YouTube
     package: com.google.android.youtube
-  - url: "http://www.youtube.com/watch?v=1kNDmhHvMEM&feature=applinks"
+  - url: 'http://www.youtube.com/watch?v=1kNDmhHvMEM&feature=applinks'
     type: web
-title: "The Grid | AI Websites | Typography System Overview"
-dateModified: "2015-06-09T21:06:01.207Z"
+title: The Grid | AI Websites | Typography System Overview
+dateModified: '2015-06-09T21:06:01.207Z'
 sourcePath: _posts/2015-06-05-the-grid-or-ai-websites-or-typography-system-overview.md
-published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
-  url: "http://www.youtube.com/"
-  favicon: "https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico"
+  url: 'http://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+inFeed: true
+hasPage: false
+inNav: false
 _type: VideoObject
-_context: "http://schema.org"
+_context: 'http://schema.org'
 
 ---
 # [The Grid Typographyverse][0]
