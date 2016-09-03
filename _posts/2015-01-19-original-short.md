@@ -1,5 +1,5 @@
 ---
-isBasedOnUrl: "https://vimeo.com/117193312"
+isBasedOnUrl: 'https://vimeo.com/117193312'
 inLanguage: en
 starred: false
 keywords:
@@ -13,33 +13,41 @@ keywords:
   - norberg
   - jarmusch
   - concepts
-description: "This is a short piece that explores the concept of originality. The topic is full of wonder, conflict, excitement, and subjectivity. For many, originality means drawing inspiration from a variety of sources to create a new idea. The script for \"Original\" is meant to be an adaptation of this belief; proving that unique ideas can be inspired by existing concepts, objects and experiences."
+description: >-
+  This is a short piece that explores the concept of originality. The topic is
+  full of wonder, conflict, excitement, and subjectivity. For many, originality
+  means drawing inspiration from a variety of sources to create a new idea. The
+  script for "Original" is meant to be an adaptation of this belief; proving
+  that unique ideas can be inspired by existing concepts, objects and
+  experiences.
 author:
   - name: Vucko
-    url: "http://vimeo.com/vucko"
+    url: 'http://vimeo.com/vucko'
     avatar:
-      src: "https://i.vimeocdn.com/portrait/8950442_75x75.jpg"
+      src: 'https://i.vimeocdn.com/portrait/8950442_75x75.jpg'
       width: 75
       height: 75
 related: []
-datePublished: "2015-01-19T18:09:07.000Z"
+datePublished: '2016-08-31T14:26:28.258Z'
 app_links:
-  - url: "vimeo://117193312"
+  - url: 'vimeo://117193312'
     type: ios
-    app_store_id: "425194759"
+    app_store_id: '425194759'
     app_name: Vimeo
 title: Original / Short
-dateModified: "2015-06-09T21:06:01.303Z"
+dateModified: '2015-06-09T21:06:01.303Z'
 sourcePath: _posts/2015-01-19-original-short.md
-published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
-  url: "https://vimeo.com/"
-  favicon: "https://f.vimeocdn.com/images_v6/favicon_32.ico"
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon_32.ico'
+inFeed: true
+hasPage: false
+inNav: false
 _type: VideoObject
-_context: "http://schema.org"
+_context: 'http://schema.org'
 
 ---
 # [Original Short By Vucko][0]
