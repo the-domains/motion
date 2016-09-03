@@ -1,13 +1,14 @@
 ---
 author:
   - name: Anton Aheichanka
-    url: "http://dribbble.com/madebyanton"
+    url: 'http://dribbble.com/madebyanton'
     avatar: {}
 related: []
 publisher:
-  url: "http://dribbble.com/"
+  url: 'http://dribbble.com/'
   name: Dribbble
-  favicon: "https://d13yacurqjgara.cloudfront.net/assets/dribbble-ball-192-ca31e1fa9e48daf014e441a1d358b5d1.png"
+  favicon: >-
+    https://d13yacurqjgara.cloudfront.net/assets/dribbble-ball-192-ca31e1fa9e48daf014e441a1d358b5d1.png
   domain: dribbble.com
 keywords:
   - dribbble
@@ -20,16 +21,23 @@ keywords:
   - designers
   - projects
   - zoom
-description: "Here is another ui design I did for the secret InVision project. Stay tuned for more stuff. Press L to show some love Follow the InVision Team Not collaborating with InVision yet? Sign up for free!"
+description: >-
+  Here is another ui design I did for the secret InVision project. Stay tuned
+  for more stuff. Press L to show some love Follow the InVision Team Not
+  collaborating with InVision yet? Sign up for free!
 inLanguage: en
-datePublished: "2015-02-24T00:00:00.000Z"
+datePublished: '2016-08-31T14:26:31.620Z'
 app_links: []
-isBasedOnUrl: "https://dribbble.com/shots/1945593-Login-Home-Screen?list=searches&tag=gif&offset=16"
-title: "Login & Home Screen"
-dateModified: "2015-06-06T19:46:40.312Z"
+isBasedOnUrl: >-
+  https://dribbble.com/shots/1945593-Login-Home-Screen?list=searches&tag=gif&offset=16
+title: Login & Home Screen
+dateModified: '2015-06-06T19:46:40.312Z'
 sourcePath: _posts/2015-02-24-login-and-home-screen.md
-published: true
-_context: "http://schema.org"
+starred: false
+inFeed: true
+hasPage: false
+inNav: false
+_context: 'http://schema.org'
 _type: MediaObject
 
 ---
